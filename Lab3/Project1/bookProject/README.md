@@ -32,4 +32,12 @@ We generated a Spring Boot project using Spring Initializr with the following de
   1. docker run --name my-mysql-container -e MYSQL_ROOT_PASSWORD=my-secret-pw -d mysql:8.1
   2. docker exec -it my-mysql-container mysql -uroot -p
 ## Step 8: To test this CRUD application we used Postman and the results are attached below:
+
+![scr1](https://github.com/adelinamerko/EnterpriseAppInJava/assets/132294002/7d5f6034-fc3a-4596-94e4-72f6a1137a93)
+
+![scr2](https://github.com/adelinamerko/EnterpriseAppInJava/assets/132294002/66b502f8-8d94-40d0-baa9-69b5ea2b2d5f)
+
+![beforedelete](https://github.com/adelinamerko/EnterpriseAppInJava/assets/132294002/f404cf50-f072-45b3-9b73-eb3bf98b2cc1)
+
+![scr3](https://github.com/adelinamerko/EnterpriseAppInJava/assets/132294002/5cecf22e-11e9-47ef-b9b1-d68c5a9f0527)
   
