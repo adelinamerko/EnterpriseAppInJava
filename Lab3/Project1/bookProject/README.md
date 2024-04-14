@@ -26,3 +26,10 @@ We generated a Spring Boot project using Spring Initializr with the following de
 
 ## Step 6: Running the Application
 - Run the "main" method to start the Spring Boot Application
+
+## Step 7: Use Docker to start a MySQL container to test the Spring Boot Rest endpoints. 
+- Commands we used to run MySQL conatiner are:
+  1. docker run --name my-mysql-container -e MYSQL_ROOT_PASSWORD=my-secret-pw -d mysql:8.1
+  2. docker exec -it my-mysql-container mysql -uroot -p
+## Step 8: To test this CRUD application we used Postman and the results are attached below:
+  
